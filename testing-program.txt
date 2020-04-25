@@ -1,8 +1,2 @@
 
-This is the first line of code in master branch.
-
-This can be the other line, number two i will write.
-
-
-This is written in the alpha branch.
-
+Done some changes!
