@@ -1,1 +1,5 @@
 Detta är vad som hände första gången.
+
+Detta ska bli en annan funktion.
+
+Detta ska vara en funktion som senare ska bli klar.
